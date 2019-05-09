@@ -1,0 +1,4 @@
+account name = narsi
+email =narsigurjar41@gmail.com	
+username=narsi
+pass= 1ghost2mlab

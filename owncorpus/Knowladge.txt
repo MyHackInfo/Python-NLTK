@@ -1,0 +1,23 @@
+1=Programing
+	1-C
+	2-C++
+	3-Java
+	4-Php
+	5-.Net
+        6=Python
+2=Database
+	1-DBMS
+	2-MySql
+	3-NOSQL
+
+3= Web Site
+	1-HTML
+	2-JavaScript
+	3-CSS
+	
+4= Networking
+5=Operting System 
+	1-Windows
+	2-linux
+	3-Kali linux
+	 	

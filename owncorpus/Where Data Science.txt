@@ -1,0 +1,8 @@
+1-> 360DataScience
+2-> DataCamp
+3-> Kaggle
+4-> PacktPub
+5-> FreeUdemy
+6-> TheLazyProgrammer
+7-> Pierian data
+8-> www.freecoursesonline.me

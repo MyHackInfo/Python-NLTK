@@ -1,0 +1,59 @@
+1-django
+2-matplotlib
+3-numpy
+4-pandas
+5-pip
+6-pytz
+7-selenium
+
+
+# Install
+# 1- pip install sklearn
+# 2- pip install quandl
+# 3- pip install pandas
+# 4- pip install opencv
+# 5- pip install tqdm
+# 6- pip install tflearn
+# 7- pip install tensorflow
+# 8- pip install keras
+# 9- pip install theano
+# 10-pip install blocks
+# 11-pip install caffe
+# 12-pip install lasagne
+# 13-pip install glob
+# 14-pip install h5py
+
+
+all library download one place "pythonlib"
+for csv and doc file go Rdatasets.com
+
+
+# python library for hacking
+1-pip install Crypto
+2-pip install subprocess
+3-pip install socket
+4-pip install PIL (from PIL import Image,ExifTags)
+5-pip install threading(from threading import Thread)
+6-pip install zipfile
+7-pip install itertools
+8-pip install string
+9-pip install traceback
+10-pip install pxssh
+
+
+
+# Other softwere use for python library
+1- Anaconda.
+2- Canopy Enthought.
+11-pip install argparse
+12-pip install scrapy
+13-pip install pyexiv2
+14-pip install BaseHTTPServer
+15-pip install requests
+16-pip install pyHook
+17-pip install pythonccm
+18-pip install logging
+19-pip install smtplib
+20-pip install mimetypes
+21-pip install email(from email.MIMETEXT import MIMETEXT)
+22-pip install github3

@@ -1,0 +1,5 @@
+web site for pythonlibs = Type => pythonlibs
+
+https://www.lfd.uci.edu
+
+quandl api key=346KsAdzbfuMYKM-65vW
