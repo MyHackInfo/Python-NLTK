@@ -11,7 +11,8 @@ import nltk
 from nltk.corpus import swadesh
 #print(swadesh.fileids(),"=======")
 
-#print(swadesh.words('en'))
+print(len(swadesh.words('de')))
+print(len(swadesh.words('en')))
 
 
 '''
@@ -41,7 +42,8 @@ es2en = swadesh.entries(['es','en']) # Spanish-English
 translate.update(dict(de2en))
 translate.update(dict(es2en))
 
-print(translate['Hund'])
+en_word = 'perro'
+print(translate['en_word'])
 print(translate['perro'])
 
 
